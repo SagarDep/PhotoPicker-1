@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_photo_picker"
+    android:layout_width="match_parent"
+    android:background="#000"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.nanchen.imagepicker.PhotoPickerActivity">
+
+    <include
+        android:id="@+id/photo_picker_title"
+        layout="@layout/layout_title"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#111111">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/photo_picker_rv"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:overScrollMode="never"
+            android:paddingBottom="50dp"
+            android:listSelector="@android:color/transparent"
+            android:horizontalSpacing="2dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:verticalSpacing="2dp"
+            android:paddingTop="2dp"
+            android:scrollbars="none"/>
+
+        <GridView
+            android:id="@+id/photo_picker_gv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipToPadding="false"
+            android:horizontalSpacing="2dp"
+            android:listSelector="@android:color/transparent"
+            android:numColumns="3"
+            android:paddingBottom="50dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingTop="2dp"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="2dp"/>
+
+
+        <RelativeLayout
+            android:id="@+id/photo_picker_footer"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_alignParentBottom="true"
+            android:background="#DC22292C">
+
+            <Button
+                android:id="@+id/photo_picker_btn_dir"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:background="@null"
+                android:drawablePadding="4dp"
+                android:drawableRight="@mipmap/text_indicator"
+                android:drawableEnd="@mipmap/text_indicator"
+                android:ellipsize="end"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:maxLines="1"
+                android:text="@string/all_photos"
+                android:textAllCaps="false"
+                android:textColor="#FFFFFF"
+                android:textSize="16sp"/>
+
+            <Button
+                android:id="@+id/photo_picker_btn_preview"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:background="@null"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="@string/look"
+                android:textAllCaps="false"
+                android:textColor="#FFFFFF"
+                android:textSize="16sp"/>
+
+            <View
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="12dp"
+                android:layout_marginTop="12dp"
+                android:layout_toLeftOf="@id/photo_picker_btn_preview"
+                android:layout_toStartOf="@+id/photo_picker_btn_preview"
+                android:background="#cc111111"/>
+        </RelativeLayout>
+
+        <ViewStub
+            android:id="@+id/floder_stub"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout="@layout/fload_list_layout_stub"
+            android:layout_above="@id/photo_picker_footer"/>
+    </RelativeLayout>
+
+</LinearLayout>

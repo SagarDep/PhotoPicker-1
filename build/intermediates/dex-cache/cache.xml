@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\my_git_res\PhotoPicker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="E:\my_git_res\PhotoPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_d904fbc188e920ce5a995b82161d737c3019e7e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\my_git_res\PhotoPicker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\my_git_res\PhotoPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_e34b06de7a20e5f3c640855a9922f1d464a4b5fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\my_git_res\PhotoPicker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="E:\my_git_res\PhotoPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_d60a7b1f203cde9a357986cc838402255c7dc704\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\my_git_res\PhotoPicker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="117b9298611d97efa4fbcbc5a889ded903846b31">
+        <dex dex="E:\my_git_res\PhotoPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_594e811ed041771c3c522c78cd5661589fa679f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\my_git_res\PhotoPicker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="E:\my_git_res\PhotoPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_c7e111e1c6464d0f6a8796c4b1ced98bd98fcfb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\my_git_res\PhotoPicker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="372c2ebe3505a2438bfa80e5232a62c8e7524509">
+        <dex dex="E:\my_git_res\PhotoPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_21a7ab6d97ae23a254ff5a6b70397bffa0bdf65c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\my_git_res\PhotoPicker\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="E:\my_git_res\PhotoPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_3a43c064edae7bba8b3d8729c523c5deb40f015f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\my_git_res\PhotoPicker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="E:\my_git_res\PhotoPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_e7bdf4d86fc54d8ae7ec8924668a0074873faa5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\my_git_res\PhotoPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_532805f8597659794f316d89247d85ea8aceb048\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\my_git_res\PhotoPicker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="E:\my_git_res\PhotoPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_89463f7a4f184f761639ea88d028bb4d59444ce2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\my_git_res\PhotoPicker\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\my_git_res\PhotoPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_8d698b93c0e4dd3bc9093c66c8fbee5c24b6423d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\my_git_res\PhotoPicker\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="E:\my_git_res\PhotoPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_96c6fab30d846edb8f0d6417b346d17dff773a2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\my_git_res\PhotoPicker\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="E:\my_git_res\PhotoPicker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_8936f57cc001927ae416ddfe958ed69ea82469ca\classes.dex" />
+    </item>
+
+</items>
